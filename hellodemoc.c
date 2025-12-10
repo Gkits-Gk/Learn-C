@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>   // for usleep
 #include <stdlib.h>   // for system("clear")
-//This is first file created by GK
+//This is first file created by HEMANTH
 int main() {
     int i;
     for (i = 0; i < 50; i++) {
@@ -15,3 +15,4 @@ int main() {
     return 0;
 
 }
+
